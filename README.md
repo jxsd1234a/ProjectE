@@ -10,7 +10,7 @@ Bugs can be reported at: https://github.com/sinkillerj/ProjectE/issues
 
 Please try the latest release build before reporting, be sure to also include any logs or steps to reproduce you may have, as well as your Forge version, and whether or not you are using a third party loader such as Cauldron. When submitting logs please use a service such as Pastebin, do not paste the log directly into the issue.
 
-# Downloads
+# Downloads？
 https://www.curseforge.com/minecraft/mc-mods/projecte/files
 
 # Support Development
@@ -34,7 +34,7 @@ pupnewfster - Rising Superstar - Current Lead of New Version Ports
 
 * Patreon: https://www.patreon.com/pupnewfster
 
-MaPePeR(Blubberbub) - Alchemical Value Archivist - Lead EMC Mapper Developer: 
+MaPePeR(Blubberbub) - Alchemical Value Archivist - Lead EMC Mapper Developer:
 
 * Twitter: https://twitter.com/Blubb3rbub
 
