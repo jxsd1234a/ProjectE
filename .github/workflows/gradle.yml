@@ -5,9 +5,9 @@ name: Java CI with Gradle
 
 on:
   push:
-    branches: [ tree/mc1.14.x ]
+    branches: [ mc1.14.x ]
   pull_request:
-    branches: [ tree/mc1.14.x ]
+    branches: [ mc1.14.x ]
 
 jobs:
   build:
